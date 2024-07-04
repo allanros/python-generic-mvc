@@ -17,7 +17,6 @@ __pycache__/
 
 # Storage
 
-storage.db
 
 # Distribution / packaging
 .Python
